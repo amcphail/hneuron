@@ -1,0 +1,8 @@
+-----------------------------------------------
+ A Biophysics neural library for Haskell
+-----------------------------------------------
+
+INSTALLATION
+
+cabal install hneuron
+

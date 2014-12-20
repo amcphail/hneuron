@@ -32,7 +32,7 @@ library
 
     Extensions:         
 
-    hs-source-dirs:     lib
+    hs-source-dirs:     src
     Exposed-modules:    Numeric.Neuron
                         Numeric.Neuron.Types
     other-modules:      
